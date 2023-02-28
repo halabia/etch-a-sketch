@@ -1,0 +1,15 @@
+#container {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto auto;
+    justify-content: center;
+  }
+.content {
+    width: 2vw;
+    height: 2vw;
+    border-style: dotted;
+    border-color: black;
+}
+h1 {
+    display: flex;
+    justify-content: center;
+}
